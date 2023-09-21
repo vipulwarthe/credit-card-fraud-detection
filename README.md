@@ -1,5 +1,5 @@
 # credit-card-fraud-detection
-Credit Card Fraud Detect Under &amp; Over Sampling
+Credit Card Fraud Detect Under & Over Sampling
 
     1  sudo apt-get update && sudo apt-get upgrade -y
     2  sudo apt install python3-venv -y
